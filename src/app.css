@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  position: absolute;
+  width: 1044px;
+  height: 487px;
+  background-color: white;
+  opacity: 0.5;
+  border-radius: 31px;
+  padding: 20px;
+}
+
+.main-container {
+  position: relative;
+  background-color: #D6C395;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.box1 {
+  top: 170px;
+  left: 178px;
+}
+
+.box2 {
+  top: 746px;
+  left: 178px;
+}
+h1 {
+  position: absolute;
+  font-size: 60px;
+  font-weight: normal;
+  top: 100px;
+  left: 144px;
+}
+p {
+  position: absolute;
+  font-size: 14px;
+  top: 188px;
+  left: 207px;
+}
